@@ -49,3 +49,11 @@ vite.config.ts.*
 *.sln
 *.sw?
 .history
+
+.changeset
+.githuh
+.husky
+apps/web-ele
+apps/web-naive
+playground
+docs
